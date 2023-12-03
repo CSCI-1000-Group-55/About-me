@@ -6,11 +6,18 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Nora Su. </h1>
+            <h1 className='title'>Nora's Page </h1>
           </div>
+          <img
+            className='pic'
+            src='https://media.discordapp.net/attachments/828726074757087263/1181012921627721868/IMG_3610.jpg?ex=657f82fe&is=656d0dfe&hm=c6768111a56920ac054bafca642b2daca729f724b8d45cf0bb59f95563cf8678&=&format=webp&width=986&height=986'
+            alt='nora su'
+          />
 
           <p className='description'>
-            My name is Nora, and I'm a freshman studying Computer Science at CU Boulder.
+            My name is Nora, and I'm a freshman studying Computer Science at CU Boulder. 
+            I enjoy distance running, hiking, coding, and editing photos and videos. My 
+            favorite foods are taiyaki and boba.
           </p>
 
           <a className='button' href='/'>
