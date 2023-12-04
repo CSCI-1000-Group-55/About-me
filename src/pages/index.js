@@ -1,3 +1,7 @@
+/**
+ * NETLIFY LINK: https://main--deft-frangipane-b55e12.netlify.app/
+ */
+
 import Head from 'next/head'
 
 export default function Home() {
